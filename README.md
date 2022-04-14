@@ -1,5 +1,7 @@
 # Shared during Ethernaut DAO Knowledge Sharing Session 1
 
+## Recording is rec.aac.zip
+
 # Solidity Template
 
 My favorite setup for writing Solidity smart contracts.
